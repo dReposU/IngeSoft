@@ -1,0 +1,18 @@
+[submodule "bookstore"]
+	path = bookstore
+	url = https://github.com/hampcodes/bookstore.git
+[submodule "pagoya-api"]
+	path = pagoya-api
+	url = https://github.com/hampcodes/pagoya-api.git
+[submodule "pagoya-web"]
+	path = pagoya-web
+	url = https://github.com/hampcodes/pagoya-web.git
+[submodule "pagoya"]
+	path = pagoya
+	url = https://github.com/hampcodes/pagoya.git
+[submodule "pagoya-asistente"]
+	path = pagoya-asistente
+	url = https://github.com/hampcodes/pagoya-asistente.git
+[submodule "pagoya-web-asistente"]
+	path = pagoya-web-asistente
+	url = https://github.com/hampcodes/pagoya-web-asistente.git
